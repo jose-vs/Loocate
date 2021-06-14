@@ -1,0 +1,12 @@
+{
+  "name": "Loocate",
+  "displayName": "Loocate",
+  "expo": {
+    "name": "Loocate",
+    "slug": "Loocate",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
